@@ -36,6 +36,5 @@ O backend processa as requisições do frontend e então, retorna para o front.
 - E por fim, no pipe, eu defini onde iria salvar o arquivo;
 
 # O que foi aprendido (aula 3)
-- No form, foi criada a função que observa o evento no formulário;
-- No index, ele recupera o ID que é passado como parâmetro, faz download, converte o vídeo e por fim, faz a transcrição, seguindo os parâmetros por mim, fornecidos;
-- 
+- No ´form.js´, foi criada a função que observa o evento no formulário;
+- No ´index.js´, ele recupera o ID que é passado como parâmetro, faz download, converte o vídeo e por fim, faz a transcrição, seguindo os parâmetros por mim, fornecidos;
